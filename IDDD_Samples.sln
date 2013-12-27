@@ -20,11 +20,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{ED8C936A-7015-4129-AE44-F1344FCF3827}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47240157-A01F-4D0C-8E23-E140DA470EDD}"
-	ProjectSection(SolutionItems) = preProject
-		IDDD_Samples.vsmdi = IDDD_Samples.vsmdi
-		Local.testsettings = Local.testsettings
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
