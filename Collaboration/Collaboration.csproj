@@ -122,7 +122,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\iddd_common\Common.csproj">
+    <ProjectReference Include="..\Common\Common.csproj">
       <Project>{23b36ff3-b4fe-4765-815e-4943a737bc6d}</Project>
       <Name>Common</Name>
     </ProjectReference>

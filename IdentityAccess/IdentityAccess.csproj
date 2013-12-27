@@ -119,7 +119,7 @@
     <Compile Include="Infrastructure\Services\MD5EncryptionService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\iddd_common\Common.csproj">
+    <ProjectReference Include="..\Common\Common.csproj">
       <Project>{23B36FF3-B4FE-4765-815E-4943A737BC6D}</Project>
       <Name>Common</Name>
     </ProjectReference>

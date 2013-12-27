@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "iddd_common\Common.csproj", "{23B36FF3-B4FE-4765-815E-4943A737BC6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{23B36FF3-B4FE-4765-815E-4943A737BC6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilePM", "iddd_agilepm\AgilePM.csproj", "{81B36F86-19C3-4B19-8BBF-492ADA991886}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilePM", "AgilePM\AgilePM.csproj", "{81B36F86-19C3-4B19-8BBF-492ADA991886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaboration", "iddd_collaboration\Collaboration.csproj", "{68FD7D5F-2837-4B55-918F-C13247899667}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaboration", "Collaboration\Collaboration.csproj", "{68FD7D5F-2837-4B55-918F-C13247899667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAccess", "iddd_identityaccess\IdentityAccess.csproj", "{FE7CF2BC-5070-4CC7-AB31-4E7F12AA65BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAccess", "IdentityAccess\IdentityAccess.csproj", "{FE7CF2BC-5070-4CC7-AB31-4E7F12AA65BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,8 +36,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = IDDD_Samples.vsmdi
 	EndGlobalSection
 EndGlobal
