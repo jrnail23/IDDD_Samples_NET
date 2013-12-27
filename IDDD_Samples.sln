@@ -11,16 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaboration", "iddd_colla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAccess", "iddd_identityaccess\IdentityAccess.csproj", "{FE7CF2BC-5070-4CC7-AB31-4E7F12AA65BF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityAccessContext", "IdentityAccessContext", "{24F1B8E8-2FB0-4962-A55E-D248912498AF}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AgileProjectManagementContext", "AgileProjectManagementContext", "{C382BC55-00D9-4A8D-A038-47912EEBC6D6}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CollaborationContext", "CollaborationContext", "{4CE6B745-D696-4327-9513-9E9EC3354BE2}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{ED8C936A-7015-4129-AE44-F1344FCF3827}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47240157-A01F-4D0C-8E23-E140DA470EDD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,12 +36,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{23B36FF3-B4FE-4765-815E-4943A737BC6D} = {ED8C936A-7015-4129-AE44-F1344FCF3827}
-		{81B36F86-19C3-4B19-8BBF-492ADA991886} = {C382BC55-00D9-4A8D-A038-47912EEBC6D6}
-		{68FD7D5F-2837-4B55-918F-C13247899667} = {4CE6B745-D696-4327-9513-9E9EC3354BE2}
-		{FE7CF2BC-5070-4CC7-AB31-4E7F12AA65BF} = {24F1B8E8-2FB0-4962-A55E-D248912498AF}
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = IDDD_Samples.vsmdi
